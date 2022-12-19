@@ -5,4 +5,6 @@
 
 # Tugas anggota
 
-- Arsha : handle 2 sub (my info dan perfomance). Tools : selenium(automation).
+- Arsha setya pradita : handle 2 sub (my info dan perfomance). Tools : selenium(automation).
+
+- Difa andika : handle 3 sub (admin, pim dan time). Tools : cypress(automation).
